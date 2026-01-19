@@ -5,7 +5,7 @@ name: TEST Branch
 on:
   push:
     branches:
-      - '**'
+      - 'RB-**'
   workflow_dispatch:
 
 jobs:
